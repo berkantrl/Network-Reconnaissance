@@ -6,7 +6,6 @@ Network Reconnaissance is a Python script designed to perform network scanning a
 
 - Active and passive network scanning
 - Retrieves MAC addresses and vendor details
-- Identifies open ports on discovered devices
 - Provides a simple and efficient way to perform basic network reconnaissance
 
 ## Installation
